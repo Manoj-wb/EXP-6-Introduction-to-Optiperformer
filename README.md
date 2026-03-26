@@ -61,27 +61,21 @@ The system includes:
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
+![WhatsApp Image 2026-03-26 at 7 29 24 PM](https://github.com/user-attachments/assets/66fb0f2d-605a-4048-babf-11faeeb0b99e)
 
 ## Tabulation
-
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2026-03-26 at 7 31 08 PM](https://github.com/user-attachments/assets/6483a80a-3147-4398-a653-01a63a63bcd6)
 
 ---
 
 ## Graphs
+![WhatsApp Image 2026-03-26 at 7 29 32 PM](https://github.com/user-attachments/assets/d541f842-d14c-46d3-952d-feabffd7a12a)
+
 
 *(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
 ---
 
 ## RESULT
+Thus , the introduction to optiperfomer is successfully completed and verified
 
-*(Summarize key findings from simulation and analysis)*
